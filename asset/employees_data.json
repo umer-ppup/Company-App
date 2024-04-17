@@ -1,0 +1,133 @@
+{
+  "employeesData": [
+    {
+      "id": "1",
+      "title": "Attendance",
+      "image": "asset/icons/attendance.svg"
+    },
+    {
+      "id": "2",
+      "title": "Leaves",
+      "image": "asset/icons/leaves.svg"
+    },
+    {
+      "id": "3",
+      "title": "Messages",
+      "image": "asset/icons/messages.svg"
+    },
+    {
+      "id": "4",
+      "title": "My Team",
+      "image": "asset/icons/employee.svg"
+    },
+    {
+      "id": "5",
+      "title": "Payroll",
+      "image": "asset/icons/payroll.svg"
+    }
+  ],
+  "employeesDataOld": [
+    {
+      "id": "1",
+      "title": "Tasks",
+      "image": "asset/icons/tasks_list.svg"
+    },
+    {
+      "id": "2",
+      "title": "Attendance",
+      "image": "asset/icons/attendance.svg"
+    },
+    {
+      "id": "3",
+      "title": "Leaves",
+      "image": "asset/icons/leaves.svg"
+    },
+    {
+      "id": "4",
+      "title": "Messages",
+      "image": "asset/icons/messages.svg"
+    },
+    {
+      "id": "5",
+      "title": "My Team",
+      "image": "asset/icons/employee.svg"
+    },
+    {
+      "id": "6",
+      "title": "Payroll",
+      "image": "asset/icons/payroll.svg"
+    }
+  ],
+  "attendanceData": [
+    {
+      "emp_id": "emp_01",
+      "emp_name": "Faisal Arshad",
+      "attendanceHistory": [
+        {
+          "id": "1",
+          "date": "Tue, Nov 16, 2021",
+          "attendance": "Present"
+        },
+        {
+          "id": "2",
+          "name": "Faisal Arshad",
+          "date": "Tue, Nov 16, 2021",
+          "attendance": "Holiday"
+        },
+        {
+          "id": "3",
+          "name": "Faisal Arshad",
+          "date": "Tue, Nov 16, 2021",
+          "attendance": "Leave"
+        },
+        {
+          "id": "4",
+          "name": "Faisal Arshad",
+          "date": "Tue, Nov 16, 2021",
+          "attendance": "Present"
+        },
+        {
+          "id": "5",
+          "name": "Faisal Arshad",
+          "date": "Tue, Nov 16, 2021",
+          "attendance": "Absent"
+        }
+      ]
+    },
+    {
+      "emp_id": "emp_02",
+      "emp_name": "Hamza Iqbal",
+      "attendanceHistory": [
+        {
+          "id": "1",
+          "date": "28/06/2021",
+          "attendance": "Present"
+        },
+        {
+          "id": "2",
+          "name": "Faisal Arshad",
+          "date": "29/06/2021",
+          "attendance": "Holiday"
+        },
+        {
+          "id": "3",
+          "name": "Faisal Arshad",
+          "date": "30/06/2021",
+          "attendance": "Leave"
+        },
+        {
+          "id": "4",
+          "name": "Faisal Arshad",
+          "date": "01/07/2021",
+          "attendance": "Present"
+        },
+        {
+          "id": "5",
+          "name": "Faisal Arshad",
+          "date": "02/07/2021",
+          "attendance": "Absent"
+        }
+      ]
+    }
+  ]
+}

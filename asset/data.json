@@ -1,0 +1,597 @@
+{
+  "graphicsPortfolioData": [
+    {
+      "id": "1",
+      "image": "asset/images/CakyCake.png"
+    },
+    {
+      "id": "2",
+      "image": "asset/images/Covid.png"
+    },
+    {
+      "id": "3",
+      "image": "asset/images/EXPRESSSTOREAPP.png"
+    },
+    {
+      "id": "4",
+      "image": "asset/images/FRAME1.png"
+    },
+    {
+      "id": "5",
+      "image": "asset/images/resize.png"
+    }
+  ],
+  "mobileAppsPortfolioData": [
+    {
+      "id": "1",
+      "image": "asset/images/IslamApp.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.islamdoanddont"
+    },
+    {
+      "id": "2",
+      "image": "asset/images/TimezoneNotify.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.timezonenotify"
+    },
+    {
+      "id": "3",
+      "image": "asset/images/PETROLFINALAPP.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday"
+    },
+    {
+      "id": "4",
+      "image": "asset/images/RoadWeatherApp.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.roadweather"
+    },
+    {
+      "id": "5",
+      "image": "asset/images/CurrencyApp.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.currencyconverter"
+    },
+    {
+      "id": "6",
+      "image": "asset/images/LEARNPATHAPP.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.learning_path"
+    },
+    {
+      "id": "7",
+      "image": "asset/images/PakHisApp.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.pakistan"
+    },
+    {
+      "id": "8",
+      "image": "asset/images/IceCalculator.png",
+      "link": "https://play.google.com/store/apps/details?id=com.atrule.calculator"
+    }
+  ],
+  "techData": [
+    {
+      "techId": "1",
+      "techName": "Web Frontend",
+      "techNameList": [
+        {
+          "id": "1",
+          "name": "Angular",
+          "image": "asset/images/Web Frontend/angular.png"
+        },
+        {
+          "id": "2",
+          "name": "JS",
+          "image": "asset/images/Web Frontend/javascript.png"
+        },
+        {
+          "id": "3",
+          "name": "BS-3&4",
+          "image": "asset/images/Web Frontend/bootstrap.png"
+        },
+        {
+          "id": "4",
+          "name": "CSS",
+          "image": "asset/images/Web Frontend/css.png"
+        },
+        {
+          "id": "5",
+          "name": "HTML",
+          "image": "asset/images/Web Frontend/html.png"
+        },
+        {
+          "id": "6",
+          "name": "Jquery",
+          "image": "asset/images/Web Frontend/jquery.png"
+        },
+        {
+          "id": "7",
+          "name": "React",
+          "image": "asset/images/Web Frontend/react.png"
+        },
+        {
+          "id": "8",
+          "name": "Vue.Js",
+          "image": "asset/images/Web Frontend/vue.png"
+        },
+        {
+          "id": "9",
+          "name": "E-Script",
+          "image": "asset/images/Web Frontend/es6.png"
+        },
+        {
+          "id": "10",
+          "name": "TS",
+          "image": "asset/images/Web Frontend/typescript.png"
+        }
+      ]
+    },
+    {
+      "techId": "2",
+      "techName": "Mobile",
+      "techNameList": [
+        {
+          "id": "1",
+          "name": "Android",
+          "image": "asset/images/Mobile/android.png"
+        },
+        {
+          "id": "2",
+          "name": "IOS",
+          "image": "asset/images/Mobile/ios.png"
+        },
+        {
+          "id": "3",
+          "name": "Flutter",
+          "image": "asset/images/Mobile/flutter.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Xamrin",
+          "image": "asset/images/Mobile/xamarin.png"
+        },
+        {
+          "id": "5",
+          "name": "Native",
+          "image": "asset/images/Mobile/react-native.png"
+        },
+        {
+          "id": "6",
+          "name": "Obj-C",
+          "image": "asset/images/Mobile/Objective C.png"
+        },
+        {
+          "id": "7",
+          "name": "Swift",
+          "image": "asset/images/Mobile/Swift.png"
+        },
+        {
+          "id": "8",
+          "name": "Dart",
+          "image": "asset/images/Mobile/dart.png"
+        },
+        {
+          "id": "9",
+          "name": "Kotlin",
+          "image": "asset/images/Mobile/Kotlin.png"
+        }
+      ]
+    },
+    {
+      "techId": "3",
+      "techName": "Data Science",
+      "techNameList": [
+        {
+          "id": "1",
+          "name": "Python",
+          "image": "asset/images/DataScience/python.png"
+        },
+        {
+          "id": "2",
+          "name": "T-Flow",
+          "image": "asset/images/DataScience/tensorflow.png"
+        },
+        {
+          "id": "3",
+          "name": "jupyter",
+          "image": "asset/images/DataScience/jupyter-notebook.png"
+        },
+        {
+          "id": "4",
+          "name": "Numpy",
+          "image": "asset/images/DataScience/Numpy.png"
+        },
+        {
+          "id": "5",
+          "name": "scikit",
+          "image": "asset/images/DataScience/scikit-learn.png"
+        },
+        {
+          "id": "6",
+          "name": "Pyspark",
+          "image": "asset/images/DataScience/Pyspark.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Pandas",
+          "image": "asset/images/DataScience/pandas.jpg"
+        },
+        {
+          "id": "8",
+          "name": "opencv",
+          "image": "asset/images/DataScience/opencv.png"
+        }
+      ]
+    },
+    {
+      "techId": "4",
+      "techName": "IDE & Languages",
+      "techNameList": [
+        {
+          "id": "1",
+          "name": "Visual Studio",
+          "image": "asset/images/IDEAndLanguages/Visual-Studio.png"
+        },
+        {
+          "id": "2",
+          "name": "Android Studio",
+          "image": "asset/images/IDEAndLanguages/android.png"
+        },
+        {
+          "id": "3",
+          "name": "Sublim Text",
+          "image": "asset/images/IDEAndLanguages/post.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Xcode",
+          "image": "asset/images/IDEAndLanguages/xcode-logo-small.png"
+        },
+        {
+          "id": "5",
+          "name": "C Sharp",
+          "image": "asset/images/IDEAndLanguages/3 csharp.png"
+        },
+        {
+          "id": "6",
+          "name": "Java",
+          "image": "asset/images/IDEAndLanguages/java-logo.png"
+        },
+        {
+          "id": "7",
+          "name": "VB.Net",
+          "image": "asset/images/IDEAndLanguages/18 vb-net.png"
+        },
+        {
+          "id": "8",
+          "name": "Python",
+          "image": "asset/images/IDEAndLanguages/python.png"
+        }
+      ]
+    },
+    {
+      "techId": "5",
+      "techName": "Web BackEnd",
+      "techNameList": [
+        {
+          "id": "1",
+          "name": "Asp.Net",
+          "image": "asset/images/WebBackEnd/aspnet.png"
+        },
+        {
+          "id": "2",
+          "name": ".Net Core",
+          "image": "asset/images/WebBackEnd/Asp.net core.png"
+        },
+        {
+          "id": "3",
+          "name": ".NET MVC",
+          "image": "asset/images/WebBackEnd/Asp.net MVC.png"
+        },
+        {
+          "id": "4",
+          "name": "Webform",
+          "image": "asset/images/WebBackEnd/webforms.png"
+        },
+        {
+          "id": "5",
+          "name": "Express",
+          "image": "asset/images/WebBackEnd/28 express.png"
+        },
+        {
+          "id": "6",
+          "name": "Django",
+          "image": "asset/images/WebBackEnd/15 django.png"
+        },
+        {
+          "id": "7",
+          "name": "Node.js",
+          "image": "asset/images/WebBackEnd/9 nodejs.png"
+        }
+      ]
+    },
+    {
+      "techId": "6",
+      "techName": "Database",
+      "techNameList": [
+        {
+          "id": "1",
+          "name": "SQL Server",
+          "image": "asset/images/Database/sql servre.png"
+        },
+        {
+          "id": "2",
+          "name": "MySql Server",
+          "image": "asset/images/Database/sql.png"
+        },
+        {
+          "id": "3",
+          "name": "MS Access",
+          "image": "asset/images/Database/microsoft-access-512.png"
+        },
+        {
+          "id": "4",
+          "name": "Mongo DB",
+          "image": "asset/images/Database/16 mongodb.png"
+        },
+        {
+          "id": "5",
+          "name": "Graph sql",
+          "image": "asset/images/Database/graphql.png"
+        },
+        {
+          "id": "6",
+          "name": "Postgre DB",
+          "image": "asset/images/Database/postgresql.png"
+        }
+      ]
+    },
+    {
+      "techId": "7",
+      "techName": "Cloud & Game",
+      "techNameList": [
+        {
+          "id": "1",
+          "name": "GIT",
+          "image": "asset/images/CloudAndGame/git.png"
+        },
+        {
+          "id": "2",
+          "name": "Azure",
+          "image": "asset/images/CloudAndGame/azure.png"
+        },
+        {
+          "id": "3",
+          "name": "Unity",
+          "image": "asset/images/CloudAndGame/unity.png"
+        },
+        {
+          "id": "4",
+          "name": "Engine",
+          "image": "asset/images/CloudAndGame/unreal-engine.png"
+        }
+      ]
+    }
+  ],
+  "eventData": [
+    {
+      "id": "1",
+      "date": "March 9, 2021",
+      "description": "Our Team/Tech Lead Mr. Zaeem Khan, HR Hasnain Areeb, and Syed Haider with the HOD and other staff of the Computer Department.",
+      "locationName": "NFC Multan Campus",
+      "image": "asset/images/Events/pic1.jpg"
+    },
+    {
+      "id": "2",
+      "date": "March 10, 2021",
+      "description": "Our Team/Tech Lead Mr. Zaeem Khan and HR Hasnain Areeb delivering a lecture to the Students of Air University Multan.",
+      "locationName": "Air University Multan Campus",
+      "image": "asset/images/Events/pic2.jpg"
+    },
+    {
+      "id": "3",
+      "date": "March 11, 2021",
+      "description": "Our HR Hasnain Areeb Delivering the Lecture, During the recruitment tour at the Mian Nawaz Shareef University of Agriculture, Multan.",
+      "locationName": "MNSUA Multan Campus",
+      "image": "asset/images/Events/pic3.jpg"
+    },
+    {
+      "id": "4",
+      "date": "March 10, 2021",
+      "description": "Our Team/Tech Lead Mr. Zaeem Khan meeting with some intelligent students of Air University Multan during the Recruitment tour.",
+      "locationName": "Air University Multan Campus",
+      "image": "asset/images/Events/pic4.jpg"
+    },
+    {
+      "id": "5",
+      "date": "March 10, 2021",
+      "description": "Our Team/Tech Lead Mr Zaeem Khan Meeting with some Intelligent Students of NFC Multan during the Recruitement tour.",
+      "locationName": "NFC Multan Campus",
+      "image": "asset/images/Events/pic5.jpg"
+    },
+    {
+      "id": "6",
+      "date": "March 10, 2021",
+      "description": "Our Team/Tech Lead Mr. Zaeem Khan meeting with some intelligent students of NFC Multan during the recruitment tour.",
+      "locationName": "NFC Multan Campus",
+      "image": "asset/images/Events/pic6.jpg"
+    },
+    {
+      "id": "7",
+      "date": "March 11, 2021",
+      "description": "Our Team/Tech Lead Mr. Zaeem Khan meeting with some intelligent students of MNSUA during the recruitment tour.",
+      "locationName": "MNSUA Multan Campus",
+      "image": "asset/images/Events/pic7.jpg"
+    },
+    {
+      "id": "8",
+      "date": "March 9, 2021",
+      "description": "Our Team/Tech Lead Mr. Zaeem Khan addressing to the brilliant students of MNSUA Multan during the recruitment tour.",
+      "locationName": "MNSUA Multan Campus",
+      "image": "asset/images/Events/pic8.jpg"
+    }
+  ],
+  "ourOpportunitiesData": [
+    {
+      "id": "1",
+      "image": "asset/images/OurOpportunities/write.png",
+      "title": "Content Writer",
+      "description": "We are looking for a creative and smart content writer. Candidates should have excellent English skills for writing articles, descriptions for website.",
+      "education": "BSCS/BSSE",
+      "experience": "0-1 Years"
+    },
+    {
+      "id": "2",
+      "image": "asset/images/OurOpportunities/android.png",
+      "title": "Android Developer",
+      "description": "We are looking for a passionate Android Application Developer to join our Professional Development team. Fresh candidates with zero experience will also be preferred.",
+      "education": "BSCS/BSSE",
+      "experience": "0-1 Years"
+    },
+    {
+      "id": "3",
+      "image": "asset/images/OurOpportunities/dot.png",
+      "title": "Dot.Net Developer",
+      "description": "We are looking for .Net developer with the knowledge of C#, OOP, Data structure. Must have University Project in .Net Framework(ASP, Webforms, WPF, Winforms).",
+      "education": "BSCS/BSSE",
+      "experience": "0-1 Years"
+    },
+    {
+      "id": "4",
+      "image": "asset/images/OurOpportunities/content-write.png",
+      "title": "Quality Assurance",
+      "description": "We are looking for QA who will do Performance Testing, Selenium, Usability Testing, Web Testing. Stay up-to-date with new testing tools and test strategies.",
+      "education": "BSCS/BSSE",
+      "experience": "1-2 Years"
+    }
+  ],
+  "followUsData": [
+    {
+      "id": "1",
+      "image": "asset/images/FollowUs/facebook.png",
+      "name": "Facebook",
+      "link": "https://www.facebook.com/atruletech/"
+    },
+    {
+      "id": "2",
+      "image": "asset/images/FollowUs/linkdin.png",
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/company/atrule-technologies"
+    },
+    {
+      "id": "3",
+      "image": "asset/images/FollowUs/tumblr.png",
+      "name": "Tumblr",
+      "link": "https://atruletechnologies.tumblr.com/"
+    },
+    {
+      "id": "4",
+      "image": "asset/images/FollowUs/medium.png",
+      "name": "Medium",
+      "link": "https://atruletechnologies.medium.com/"
+    },
+    {
+      "id": "5",
+      "image": "asset/images/FollowUs/pinterest.png",
+      "name": "Pinterest",
+      "link": "https://www.pinterest.com/AtruleTechnologies/"
+    },
+    {
+      "id": "6",
+      "image": "asset/images/FollowUs/reddit.jpg",
+      "name": "Reddit",
+      "link": "https://www.reddit.com/user/AtruleTechnologies"
+    },
+    {
+      "id": "7",
+      "image": "asset/images/FollowUs/google_play.png",
+      "name": "Google Play",
+      "link": "https://play.google.com/store/apps/dev?id=7855948407660858220"
+    },
+    {
+      "id": "8",
+      "image": "asset/images/FollowUs/quora.png",
+      "name": "Quora",
+      "link": "https://www.quora.com/profile/Atrule-Technologies"
+    },
+    {
+      "id": "9",
+      "image": "asset/images/FollowUs/upwork.png",
+      "name": "Upwork",
+      "link": "https://www.upwork.com/ag/atrule/"
+    }
+  ],
+  "positionsData": [
+    {
+      "id": "1",
+      "position": ".Net Developer"
+    },
+    {
+      "id": "2",
+      "position": "Front End Developer"
+    },
+    {
+      "id": "3",
+      "position": "Android App Developer"
+    },
+    {
+      "id": "4",
+      "position": "iOS App Developer"
+    },
+    {
+      "id": "5",
+      "position": "Game Developer"
+    },
+    {
+      "id": "6",
+      "position": "Python Developer"
+    },
+    {
+      "id": "7",
+      "position": "Human Resource Management"
+    },
+    {
+      "id": "8",
+      "position": "Quality Assurance"
+    },
+    {
+      "id": "9",
+      "position": "Content Writer"
+    },
+    {
+      "id": "10",
+      "position": "Other"
+    }
+  ],
+  "citiesData": [
+    {
+      "id": "1",
+      "city": "Multan"
+    },
+    {
+      "id": "2",
+      "city": "Lahore"
+    }
+  ],
+  "servicesData": [
+    {
+      "heading": "Desktop Application Development",
+      "detail": "Desktop Application runs over a desktop operating system like Mac, Linus and Windows.",
+      "image": "asset/images/desktop.png"
+    },
+    {
+      "heading": "Website Design and Development",
+      "detail": "Web Apps are easily accessible over internet with liberty of OS. Atrule provides beautiful & secure websites to its clients.",
+      "image": "asset/images/web.png"
+    },
+    {
+      "heading": "Mobile App Development",
+      "detail": "Atrule builds magnificent mobile apps for your brand and its requirements for both ISO and Android.",
+      "image": "asset/images/mobile.png"
+    },
+    {
+      "heading": "Digital Marketing and SEO",
+      "detail": "Atrule can assist you to reach more targeted audience using PPC, SMM & SEO modes that’ll rank up your brand in rank race.",
+      "image": "asset/images/digital_market.png"
+    },
+    {
+      "heading": "Graphic Designing (UI UX)",
+      "detail": "Graphics are the identity of a brand. Charming logo, posters & banners makes your brand different to others.",
+      "image": "asset/images/graphic_design.png"
+    }
+  ]
+}
